@@ -1,0 +1,46 @@
+h1{
+	text-align: center;
+}
+tr{
+	width: 100px;
+	height: 100px;
+
+}
+td{
+	width:100px;
+	width: 100px;
+}
+
+.mid{
+	border-left:1px solid black ;
+	border-right:1px solid black;
+}
+
+.horz{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
+table{
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
